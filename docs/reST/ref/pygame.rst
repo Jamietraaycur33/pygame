@@ -1,3 +1,4 @@
+
 .. include:: common.txt
 
 :mod:`pygame`
